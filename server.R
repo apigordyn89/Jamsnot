@@ -11,7 +11,7 @@ library('shinyBS')
 # server part of the Shiny app, where all the logic is handled
 
 
-api_key<-'AIzaSyD36r0dBXmooQ2cSEdI88-U7VOFMYOfLlU'
+api_key<-''
 # to retrieve sensor data live
 url_sensor_live <- 'https://data.melbourne.vic.gov.au/resource/vh2v-4nfs.json?$limit=20000'
 maximum_stay_cost_df <- read.csv('maximum_stay_cost.csv')
