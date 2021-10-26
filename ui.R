@@ -11,7 +11,7 @@ library(shinyBS)
 
 options(shiny.sanitize.errors = FALSE)
 
-key <- 'AIzaSyD36r0dBXmooQ2cSEdI88-U7VOFMYOfLlU'
+key <- ''
 
 # Script showing the User Interface part of the Shiny app
 
